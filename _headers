@@ -1,5 +1,10 @@
-/m.js
+/*
   Access-Control-Allow-Origin: *
   Cache-Control: public, max-age=0, no-transform
-  Content-Type: application/javascript
   X-Content-Type-Options: nosniff
+
+/m.js
+  Content-Type: application/javascript
+
+/*.css
+  Content-Type: text/css
