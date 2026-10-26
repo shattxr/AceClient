@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         ACE CLIENT RM
-// @namespace    http://tampermonkey.net/
+// @namespace    acerm.starblast
 // @version      1.0.0
 // @description  testing
 // @author       shattxr
